@@ -1,7 +1,7 @@
 .gallery {
     display: flex;
     margin: 24px auto;
-    max-width: 1128px;
+    max-width: 1144px;
     flex-direction: row;
     flex-wrap: wrap;
     gap: 24px 24px;
